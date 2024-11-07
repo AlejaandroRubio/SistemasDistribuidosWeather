@@ -1,0 +1,10 @@
+C:\Users\alejandro.rubio\source\repos\examen-final-25-enero-2024-AlejaandroRubio\MeteoService\front\bin\Debug\front.exe.config
+C:\Users\alejandro.rubio\source\repos\examen-final-25-enero-2024-AlejaandroRubio\MeteoService\front\bin\Debug\front.exe
+C:\Users\alejandro.rubio\source\repos\examen-final-25-enero-2024-AlejaandroRubio\MeteoService\front\bin\Debug\front.pdb
+C:\Users\alejandro.rubio\source\repos\examen-final-25-enero-2024-AlejaandroRubio\MeteoService\front\obj\Debug\front.csproj.AssemblyReference.cache
+C:\Users\alejandro.rubio\source\repos\examen-final-25-enero-2024-AlejaandroRubio\MeteoService\front\obj\Debug\front.Form1.resources
+C:\Users\alejandro.rubio\source\repos\examen-final-25-enero-2024-AlejaandroRubio\MeteoService\front\obj\Debug\front.Properties.Resources.resources
+C:\Users\alejandro.rubio\source\repos\examen-final-25-enero-2024-AlejaandroRubio\MeteoService\front\obj\Debug\front.csproj.GenerateResource.cache
+C:\Users\alejandro.rubio\source\repos\examen-final-25-enero-2024-AlejaandroRubio\MeteoService\front\obj\Debug\front.csproj.CoreCompileInputs.cache
+C:\Users\alejandro.rubio\source\repos\examen-final-25-enero-2024-AlejaandroRubio\MeteoService\front\obj\Debug\front.exe
+C:\Users\alejandro.rubio\source\repos\examen-final-25-enero-2024-AlejaandroRubio\MeteoService\front\obj\Debug\front.pdb

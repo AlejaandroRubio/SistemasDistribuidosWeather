@@ -1,0 +1,14 @@
+C:\Users\alejandro.rubio\source\repos\MeteoService\MeteoService\bin\MeteoService.dll.config
+C:\Users\alejandro.rubio\source\repos\MeteoService\MeteoService\bin\MeteoService.dll
+C:\Users\alejandro.rubio\source\repos\MeteoService\MeteoService\bin\MeteoService.pdb
+C:\Users\alejandro.rubio\source\repos\MeteoService\MeteoService\obj\Debug\MeteoService.csproj.AssemblyReference.cache
+C:\Users\alejandro.rubio\source\repos\MeteoService\MeteoService\obj\Debug\MeteoService.csproj.CoreCompileInputs.cache
+C:\Users\alejandro.rubio\source\repos\MeteoService\MeteoService\obj\Debug\MeteoService.dll
+C:\Users\alejandro.rubio\source\repos\MeteoService\MeteoService\obj\Debug\MeteoService.pdb
+C:\Users\alejandro.rubio\source\repos\examen-final-25-enero-2024-AlejaandroRubio\MeteoService\MeteoService\bin\MeteoService.dll.config
+C:\Users\alejandro.rubio\source\repos\examen-final-25-enero-2024-AlejaandroRubio\MeteoService\MeteoService\bin\MeteoService.dll
+C:\Users\alejandro.rubio\source\repos\examen-final-25-enero-2024-AlejaandroRubio\MeteoService\MeteoService\bin\MeteoService.pdb
+C:\Users\alejandro.rubio\source\repos\examen-final-25-enero-2024-AlejaandroRubio\MeteoService\MeteoService\obj\Debug\MeteoService.csproj.AssemblyReference.cache
+C:\Users\alejandro.rubio\source\repos\examen-final-25-enero-2024-AlejaandroRubio\MeteoService\MeteoService\obj\Debug\MeteoService.csproj.CoreCompileInputs.cache
+C:\Users\alejandro.rubio\source\repos\examen-final-25-enero-2024-AlejaandroRubio\MeteoService\MeteoService\obj\Debug\MeteoService.dll
+C:\Users\alejandro.rubio\source\repos\examen-final-25-enero-2024-AlejaandroRubio\MeteoService\MeteoService\obj\Debug\MeteoService.pdb
